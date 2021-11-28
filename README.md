@@ -1,3 +1,11 @@
+# Getting the API from TheMovieDatabase
+
+This project used API Key from https://www.themoviedb.org/. Sign up for free account and receive your own API key from https://www.themoviedb.org/ to see the whole project
+
+# Getting the whole project without API KEY from TheMovieDatabase
+
+I had deployed this project on https://www.netlify.com/. Go to https://reactapp-movie.netlify.app/ to see the whole project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
